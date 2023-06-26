@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/devel_isolated/rosbridge_library
+
+Name: rosbridge_library
+Description: Description of rosbridge_library
+Version: 0.9.0
+Cflags: -I/home/pi/ros_catkin_ws/devel_isolated/rosbridge_library/include
+Libs: -L/home/pi/ros_catkin_ws/devel_isolated/rosbridge_library/lib 
+Requires: message_runtime std_msgs geometry_msgs

@@ -1,0 +1,16 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/cv_bridge.pc
+/opt/ros/kinetic/share/cv_bridge/cmake/cv_bridge-extras.cmake
+/opt/ros/kinetic/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+/opt/ros/kinetic/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+/opt/ros/kinetic/share/cv_bridge/package.xml
+/opt/ros/kinetic/include/cv_bridge/cv_bridge.h
+/opt/ros/kinetic/include/cv_bridge/rgb_colors.h
+/opt/ros/kinetic/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py
+/opt/ros/kinetic/lib/libcv_bridge.so
+/opt/ros/kinetic/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/opencv-3.4.1/build/modules/reg/opencv_reg_pch_dephelp.cxx
+/home/pi/opencv_contrib-3.4.1/modules/reg/src/precomp.hpp
+-
+
+/home/pi/opencv_contrib-3.4.1/modules/reg/src/precomp.hpp
+

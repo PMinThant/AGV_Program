@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="drive_motor" pkg="drive_motor" type="drive_motor">
+  <param name="rotation_count" type="int" value="85" />
+  <param name="maximun_speed" type="int" value="300000" />
+  <param name="slow_speed" type="int" value="80000" />
+</node>
+\endverbatim
+

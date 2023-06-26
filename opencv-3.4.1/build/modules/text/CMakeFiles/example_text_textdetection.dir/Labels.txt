@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_text
+ Sample
+# Source files and their labels
+/home/pi/opencv_contrib-3.4.1/modules/text/samples/textdetection.cpp
+ Extra
+ opencv_text
+ Sample

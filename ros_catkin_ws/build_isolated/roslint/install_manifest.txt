@@ -1,0 +1,15 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/roslint.pc
+/opt/ros/kinetic/share/roslint/cmake/roslint-extras.cmake
+/opt/ros/kinetic/share/roslint/cmake/roslintConfig.cmake
+/opt/ros/kinetic/share/roslint/cmake/roslintConfig-version.cmake
+/opt/ros/kinetic/share/roslint/package.xml
+/opt/ros/kinetic/lib/roslint/cpplint
+/opt/ros/kinetic/lib/roslint/pep8
+/opt/ros/kinetic/lib/roslint/test_wrapper
+/opt/ros/kinetic/share/roslint/cmake/roslint-extras.cmake.em

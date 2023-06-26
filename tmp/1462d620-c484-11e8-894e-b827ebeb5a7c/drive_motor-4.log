@@ -1,0 +1,108 @@
+[rospy.client][INFO] 2018-09-30 08:21:49,623: init_node, name[/drive_motor], pid[6960]
+[xmlrpc][INFO] 2018-09-30 08:21:49,626: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2018-09-30 08:21:49,629: Started XML-RPC server [http://raspberrypi:37721/]
+[rospy.init][INFO] 2018-09-30 08:21:49,630: ROS Slave URI: [http://raspberrypi:37721/]
+[rospy.impl.masterslave][INFO] 2018-09-30 08:21:49,631: _ready: http://raspberrypi:37721/
+[rospy.registration][INFO] 2018-09-30 08:21:49,634: Registering with master node http://127.0.0.1:11311
+[xmlrpc][INFO] 2018-09-30 08:21:49,635: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2018-09-30 08:21:49,733: registered with master
+[rospy.rosout][INFO] 2018-09-30 08:21:49,734: initializing /rosout core topic
+[rospy.rosout][INFO] 2018-09-30 08:21:49,748: connected to core topic /rosout
+[rospy.simtime][INFO] 2018-09-30 08:21:49,759: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2018-09-30 08:21:49,922: topic[/cam_dir] adding connection to [http://raspberrypi:35625/], count 0
+[rospy.internal][INFO] 2018-09-30 08:21:49,927: topic[/error] adding connection to [http://raspberrypi:44017/], count 0
+[rospy.internal][INFO] 2018-09-30 08:21:49,951: topic[/state] adding connection to [http://raspberrypi:35625/], count 0
+[rosout][INFO] 2018-09-30 08:21:49,979: MAX_ROTATION_COUNT = 90
+[rosout][INFO] 2018-09-30 08:21:49,987: MAX_SPEED = 200000
+[rosout][INFO] 2018-09-30 08:21:49,989: Reconfigure Request: 85
+[rospy.internal][INFO] 2018-09-30 08:21:49,997: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2018-09-30 08:21:50,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:50,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:51,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:51,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:52,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:52,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:53,476: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:53,977: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:54,475: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:54,985: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:55,476: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:55,975: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:56,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:56,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:57,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:57,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:58,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:58,976: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:59,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:21:59,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:00,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:00,976: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:01,475: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:01,977: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:02,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:02,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:03,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:03,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:04,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:04,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:05,478: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:05,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:06,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:06,976: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:07,476: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:07,976: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:08,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:08,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:09,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:09,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:10,477: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:10,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:11,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:11,974: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:12,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:12,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:13,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:13,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:14,473: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:14,973: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:15,479: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:15,975: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:16,474: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:16,975: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:17,476: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:22:17,975: /drive_motorI heard state 6
+[rospy.core][INFO] 2018-09-30 08:22:18,163: signal_shutdown [signal-2]
+[rospy.internal][ERROR] 2018-09-30 08:22:18,245: Unable to initiate TCP/IP socket to raspberrypi:41601 (http://raspberrypi:35625/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 593, in _validate_header
+    raise TransportInitError("remote error reported: %s"%header['error'])
+TransportInitError: remote error reported: node shutting down
+
+[rospy.internal][ERROR] 2018-09-30 08:22:18,251: Unable to initiate TCP/IP socket to raspberrypi:41601 (http://raspberrypi:35625/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 593, in _validate_header
+    raise TransportInitError("remote error reported: %s"%header['error'])
+TransportInitError: remote error reported: node shutting down
+
+[rospy.internal][INFO] 2018-09-30 08:22:18,276: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2018-09-30 08:22:18,278: topic[/cam_dir] removing connection to http://raspberrypi:35625/
+[rospy.internal][INFO] 2018-09-30 08:22:18,280: topic[/state] removing connection to http://raspberrypi:35625/
+[rospy.internal][INFO] 2018-09-30 08:22:18,282: topic[/error] removing connection to http://raspberrypi:44017/
+[rospy.internal][WARNING] 2018-09-30 08:22:18,287: Unknown error initiating TCP/IP socket to raspberrypi:32871 (http://raspberrypi:44017/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/network.py", line 364, in read_ros_handshake_header
+    raise ROSHandshakeException("connection from sender terminated before handshake header received. %s bytes were received. Please check sender for additional details."%b.tell())
+ROSHandshakeException: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+
+[rospy.impl.masterslave][INFO] 2018-09-30 08:22:18,291: signal-2
+[rospy.core][INFO] 2018-09-30 08:22:18,809: signal_shutdown [atexit]

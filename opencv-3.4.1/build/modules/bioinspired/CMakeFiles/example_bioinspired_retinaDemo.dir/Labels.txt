@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_bioinspired
+ Sample
+# Source files and their labels
+/home/pi/opencv_contrib-3.4.1/modules/bioinspired/samples/retinaDemo.cpp
+ Extra
+ opencv_bioinspired
+ Sample

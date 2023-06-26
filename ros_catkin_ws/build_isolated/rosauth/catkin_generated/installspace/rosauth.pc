@@ -1,0 +1,8 @@
+prefix=/opt/ros/kinetic
+
+Name: rosauth
+Description: Description of rosauth
+Version: 0.1.7
+Cflags: -I/opt/ros/kinetic/include
+Libs: -L/opt/ros/kinetic/lib 
+Requires: roscpp message_runtime

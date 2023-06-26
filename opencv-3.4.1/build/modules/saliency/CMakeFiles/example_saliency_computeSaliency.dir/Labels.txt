@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_saliency
+ Sample
+# Source files and their labels
+/home/pi/opencv_contrib-3.4.1/modules/saliency/samples/computeSaliency.cpp
+ Extra
+ opencv_saliency
+ Sample

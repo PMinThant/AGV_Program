@@ -1,0 +1,8 @@
+prefix=/opt/ros/kinetic
+
+Name: rosbridge_library
+Description: Description of rosbridge_library
+Version: 0.9.0
+Cflags: -I/opt/ros/kinetic/include
+Libs: -L/opt/ros/kinetic/lib 
+Requires: message_runtime std_msgs geometry_msgs

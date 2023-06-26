@@ -1,0 +1,4 @@
+<launch>
+    <!-- Generated from launch files in /etc/ros/kinetic/agv2.d -->
+  <include file="/etc/ros/kinetic/agv2.d/agv_single.launch" />
+</launch>

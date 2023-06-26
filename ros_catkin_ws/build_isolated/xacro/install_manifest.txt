@@ -1,0 +1,13 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/xacro.pc
+/opt/ros/kinetic/share/xacro/cmake/xacro-extras.cmake
+/opt/ros/kinetic/share/xacro/cmake/xacroConfig.cmake
+/opt/ros/kinetic/share/xacro/cmake/xacroConfig-version.cmake
+/opt/ros/kinetic/share/xacro/package.xml
+/opt/ros/kinetic/lib/xacro/xacro
+/opt/ros/kinetic/share/xacro/xacro.py

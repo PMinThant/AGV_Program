@@ -1,0 +1,90 @@
+[rospy.client][INFO] 2018-09-30 08:21:43,821: init_node, name[/controller], pid[6958]
+[xmlrpc][INFO] 2018-09-30 08:21:43,823: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2018-09-30 08:21:43,827: Started XML-RPC server [http://raspberrypi:35625/]
+[rospy.init][INFO] 2018-09-30 08:21:43,828: ROS Slave URI: [http://raspberrypi:35625/]
+[rospy.impl.masterslave][INFO] 2018-09-30 08:21:43,829: _ready: http://raspberrypi:35625/
+[rospy.registration][INFO] 2018-09-30 08:21:43,835: Registering with master node http://127.0.0.1:11311
+[xmlrpc][INFO] 2018-09-30 08:21:43,836: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2018-09-30 08:21:43,837: Registering publisher topic [/cam_dir] type [std_msgs/Int16] with master
+[rospy.registration][INFO] 2018-09-30 08:21:43,853: Registering publisher topic [/state] type [std_msgs/Int16] with master
+[rospy.init][INFO] 2018-09-30 08:21:43,930: registered with master
+[rospy.rosout][INFO] 2018-09-30 08:21:43,932: initializing /rosout core topic
+[rospy.rosout][INFO] 2018-09-30 08:21:43,949: connected to core topic /rosout
+[rospy.simtime][INFO] 2018-09-30 08:21:43,963: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2018-09-30 08:21:44,161: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2018-09-30 08:21:44,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:44,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:45,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:45,968: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:46,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:46,970: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:47,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:47,971: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:48,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:48,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:49,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:49,969: constant.state_run_very_slow
+[rospy.internal][INFO] 2018-09-30 08:21:49,975: topic[/cam_dir] adding connection to [/drive_motor], count 0
+[rospy.internal][INFO] 2018-09-30 08:21:49,985: topic[/state] adding connection to [/drive_motor], count 0
+[rosout][INFO] 2018-09-30 08:21:50,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:50,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:51,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:51,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:52,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:52,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:53,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:53,971: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:54,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:54,970: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:55,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:55,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:56,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:56,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:57,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:57,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:58,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:58,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:59,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:21:59,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:00,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:00,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:01,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:01,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:02,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:02,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:03,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:03,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:04,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:04,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:05,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:05,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:06,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:06,970: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:07,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:07,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:08,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:08,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:09,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:09,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:10,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:10,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:11,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:11,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:12,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:12,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:13,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:13,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:14,468: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:14,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:15,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:15,970: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:16,469: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:16,969: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:17,470: constant.state_run_very_slow
+[rosout][INFO] 2018-09-30 08:22:17,969: constant.state_run_very_slow
+[rospy.core][INFO] 2018-09-30 08:22:18,175: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2018-09-30 08:22:18,240: topic[/cam_dir] removing connection to /drive_motor
+[rospy.internal][INFO] 2018-09-30 08:22:18,244: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2018-09-30 08:22:18,247: topic[/state] removing connection to /drive_motor
+[rospy.impl.masterslave][INFO] 2018-09-30 08:22:18,252: signal-2
+[rospy.core][INFO] 2018-09-30 08:22:18,874: signal_shutdown [atexit]

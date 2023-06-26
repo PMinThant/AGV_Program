@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/devel
+
+Name: agv2
+Description: Description of agv2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/ros_catkin_ws/devel/lib 
+Requires: rospy

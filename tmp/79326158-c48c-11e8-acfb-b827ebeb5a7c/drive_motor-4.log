@@ -1,0 +1,85 @@
+[rospy.client][INFO] 2018-09-30 08:40:58,054: init_node, name[/drive_motor], pid[933]
+[xmlrpc][INFO] 2018-09-30 08:40:58,059: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2018-09-30 08:40:58,063: Started XML-RPC server [http://raspberrypi:34009/]
+[rospy.impl.masterslave][INFO] 2018-09-30 08:40:58,066: _ready: http://raspberrypi:34009/
+[rospy.init][INFO] 2018-09-30 08:40:58,064: ROS Slave URI: [http://raspberrypi:34009/]
+[rospy.registration][INFO] 2018-09-30 08:40:58,070: Registering with master node http://127.0.0.1:11311
+[xmlrpc][INFO] 2018-09-30 08:40:58,074: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2018-09-30 08:40:58,169: registered with master
+[rospy.rosout][INFO] 2018-09-30 08:40:58,170: initializing /rosout core topic
+[rospy.rosout][INFO] 2018-09-30 08:40:58,183: connected to core topic /rosout
+[rospy.simtime][INFO] 2018-09-30 08:40:58,203: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2018-09-30 08:40:58,342: topic[/error] adding connection to [http://raspberrypi:36165/], count 0
+[rospy.internal][INFO] 2018-09-30 08:40:58,348: topic[/cam_dir] adding connection to [http://raspberrypi:33023/], count 0
+[rospy.internal][INFO] 2018-09-30 08:40:58,384: topic[/state] adding connection to [http://raspberrypi:33023/], count 0
+[rosout][INFO] 2018-09-30 08:40:58,396: MAX_ROTATION_COUNT = 90
+[rosout][INFO] 2018-09-30 08:40:58,400: MAX_SPEED = 200000
+[rospy.internal][INFO] 2018-09-30 08:40:58,404: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2018-09-30 08:40:58,406: Reconfigure Request: 85
+[rosout][INFO] 2018-09-30 08:40:58,575: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:40:59,076: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:40:59,576: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:00,076: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:00,576: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:01,076: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:01,576: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:02,076: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:02,581: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:03,081: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:03,576: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:04,076: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:13,668: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:14,167: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:14,670: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:15,167: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:15,667: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:16,167: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:16,676: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:17,168: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:17,668: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:18,168: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:18,671: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:19,167: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:19,667: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:20,169: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:20,668: /drive_motorI heard state 6
+[rosout][INFO] 2018-09-30 08:41:21,167: /drive_motorI heard state 6
+[rospy.core][INFO] 2018-09-30 08:41:21,476: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2018-09-30 08:41:21,578: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2018-09-30 08:41:21,589: topic[/cam_dir] removing connection to http://raspberrypi:33023/
+[rospy.internal][ERROR] 2018-09-30 08:41:21,594: Unable to initiate TCP/IP socket to raspberrypi:35263 (http://raspberrypi:33023/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 593, in _validate_header
+    raise TransportInitError("remote error reported: %s"%header['error'])
+TransportInitError: remote error reported: node shutting down
+
+[rospy.internal][INFO] 2018-09-30 08:41:21,596: topic[/state] removing connection to http://raspberrypi:33023/
+[rospy.internal][ERROR] 2018-09-30 08:41:21,599: Unable to initiate TCP/IP socket to raspberrypi:35263 (http://raspberrypi:33023/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 593, in _validate_header
+    raise TransportInitError("remote error reported: %s"%header['error'])
+TransportInitError: remote error reported: node shutting down
+
+[rospy.internal][WARNING] 2018-09-30 08:41:21,603: Unknown error initiating TCP/IP socket to raspberrypi:37261 (http://raspberrypi:36165/): Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 557, in connect
+    self.read_header()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 650, in read_header
+    self._validate_header(read_ros_handshake_header(sock, self.read_buff, self.protocol.buff_size))
+AttributeError: 'NoneType' object has no attribute 'buff_size'
+
+[rospy.internal][INFO] 2018-09-30 08:41:21,603: topic[/error] removing connection to http://raspberrypi:36165/
+[rospy.topics][ERROR] 2018-09-30 08:41:21,615: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 838, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.impl.masterslave][INFO] 2018-09-30 08:41:21,616: signal-2
+[rospy.core][INFO] 2018-09-30 08:41:22,133: signal_shutdown [atexit]

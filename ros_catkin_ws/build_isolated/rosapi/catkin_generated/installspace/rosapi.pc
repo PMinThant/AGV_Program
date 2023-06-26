@@ -1,0 +1,8 @@
+prefix=/opt/ros/kinetic
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.9.0
+Cflags: -I/opt/ros/kinetic/include
+Libs: -L/opt/ros/kinetic/lib 
+Requires: message_runtime

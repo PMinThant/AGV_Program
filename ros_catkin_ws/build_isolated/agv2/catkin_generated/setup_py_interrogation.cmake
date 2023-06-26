@@ -1,0 +1,6 @@
+set(agv2_SETUP_PY_VERSION "0.0.0")
+set(agv2_SETUP_PY_SCRIPTS "")
+set(agv2_SETUP_PY_PACKAGES "agv2")
+set(agv2_SETUP_PY_PACKAGE_DIRS "/home/pi/ros_catkin_ws/src/agv2")
+set(agv2_SETUP_PY_MODULES "")
+set(agv2_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,13 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/image_geometry.pc
+/opt/ros/kinetic/share/image_geometry/cmake/image_geometryConfig.cmake
+/opt/ros/kinetic/share/image_geometry/cmake/image_geometryConfig-version.cmake
+/opt/ros/kinetic/share/image_geometry/package.xml
+/opt/ros/kinetic/include/image_geometry//pinhole_camera_model.h
+/opt/ros/kinetic/include/image_geometry//stereo_camera_model.h
+/opt/ros/kinetic/lib/libimage_geometry.so

@@ -1,0 +1,4 @@
+[0m[ INFO] [1538296854.707103620]: Waiting For connections on 0.0.0.0:8080[0m
+[0m[ INFO] [1538296855.105541276]: Handling Request: /stream?topic=/output/image_raw&type=ros_compressed[0m
+[0m[ INFO] [1538296856.530280494]: Handling Request: /stream?topic=/output/image_raw&type=ros_compressed[0m
+[0m[ INFO] [1538296858.186138774]: Removed Stream: /output/image_raw[0m

@@ -1,0 +1,12 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/camera_info_manager.pc
+/opt/ros/kinetic/share/camera_info_manager/cmake/camera_info_managerConfig.cmake
+/opt/ros/kinetic/share/camera_info_manager/cmake/camera_info_managerConfig-version.cmake
+/opt/ros/kinetic/share/camera_info_manager/package.xml
+/opt/ros/kinetic/lib/libcamera_info_manager.so
+/opt/ros/kinetic/include/camera_info_manager/camera_info_manager.h

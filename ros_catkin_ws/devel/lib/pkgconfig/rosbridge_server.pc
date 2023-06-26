@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_catkin_ws/devel
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.9.0
+Cflags: 
+Libs: -L/home/pi/ros_catkin_ws/devel/lib 
+Requires: 

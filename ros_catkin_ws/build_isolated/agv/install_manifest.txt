@@ -1,0 +1,10 @@
+/opt/ros/kinetic/_setup_util.py
+/opt/ros/kinetic/env.sh
+/opt/ros/kinetic/setup.bash
+/opt/ros/kinetic/setup.sh
+/opt/ros/kinetic/setup.zsh
+/opt/ros/kinetic/.rosinstall
+/opt/ros/kinetic/lib/pkgconfig/agv.pc
+/opt/ros/kinetic/share/agv/cmake/agvConfig.cmake
+/opt/ros/kinetic/share/agv/cmake/agvConfig-version.cmake
+/opt/ros/kinetic/share/agv/package.xml
